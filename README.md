@@ -3,7 +3,7 @@ Installation
 
 1. Clone the repository:
 
-        git clone git@github.com:jordiabante/myutils.git 
+        git clone https://github.com/jordiabante/diff_genex_analysis.git
 
 2. Add the bin folder in the repository to your path variable by adding the following line to the `.bashrc` (`.bash_profile` in Mac) file:
 
